@@ -1,4 +1,4 @@
-<h2 align="left">young ugly trash C programmer.</h2>
+<h2 align="left">!programmer</h2>
 
 ###
 
