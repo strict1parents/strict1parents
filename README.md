@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Neovim-%2300B900.svg?style=for-the-badge&logo=neovim&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Java?style=for-the-badge&logo=openjdk&logoColor=%23007396&labelColor=white&color=white" />
+
 
 
 
