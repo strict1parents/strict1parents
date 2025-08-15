@@ -9,6 +9,7 @@
        />
 </p>
 
+<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
