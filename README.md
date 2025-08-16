@@ -42,6 +42,9 @@
 
 <br clear="both">
 
+![fucked up snake](https://github.com/strict1parents/strict1parents/blob/output/snake.svg)
+
+
 ###
 <!---
 strict1parents/strict1parents is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
