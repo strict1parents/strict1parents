@@ -39,8 +39,6 @@
 
 ###
 
-<br clear="both">
-
 ![fuck this light snake](https://raw.githubusercontent.com/strict1parents/strict1parents/output/snake.svg#gh-light-mode-only)
 ![fuck this dark snake](https://raw.githubusercontent.com/strict1parents/strict1parents/output/snake-dark.svg#gh-dark-mode-only)
 
