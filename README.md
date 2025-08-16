@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-![fucked up snake](https://github.com/strict1parents/strict1parents/blob/output/snake.svg)
+![fucked up snake](https://github.com/strict1parents/strict1parents/blob/output/snake.svg#gh-dark-mode-only)
 
 
 ###
