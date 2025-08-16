@@ -33,10 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" height="30" alt="gentoo logo"  />
 </div>
 
-###
 
-<div align="left">
-</div>
 
 ###
 
