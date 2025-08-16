@@ -11,6 +11,7 @@
 
 <br clear="both">
 
+<p align="center">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
@@ -32,8 +33,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" height="30" alt="gentoo logo"  />
 </div>
+</p>
 
-
+<br/>
 
 ###
 
